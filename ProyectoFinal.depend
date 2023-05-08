@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1656032784 source:h:\pendrive\primercuatrimestre\programacion i y laboratorio de computación i\martinez augusto examen\proyectofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+
+1656086282 source:h:\pendrive\proyectofinal con ordenamiento pedidos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+
+1656086282 source:h:\pendrive\tp final laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+
+1656357066 source:h:\pendrive\primercuatrimestre\programacion i y laboratorio de computación i\tp final laboratorio (iñegue gustavo-martinez augusto-ubilla martina)\tp final laboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+
